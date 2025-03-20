@@ -1,0 +1,46 @@
+
+@font-face {
+    font-family: 'nexaregular';
+    src: url('../fontfabric_-_nexa-regular-webfont.woff2') format('woff2'),
+         url('../fontfabric_-_nexa-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'nexaheavy';
+    src: url('../fontfabric_-_nexa-heavy-webfont.woff2') format('woff2'),
+         url('../fontfabric_-_nexa-heavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'nexablack';
+    src: url('../fontfabric_-_nexa-black-webfont.woff2') format('woff2'),
+         url('../fontfabric_-_nexa-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'nexathin';
+    src: url('../Nexa-Thin.woff2') format('woff2'),
+        url('../Nexa-Thin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'nexalight';
+    src: url('../Nexa-Light.woff2') format('woff2'),
+        url('../Nexa-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
